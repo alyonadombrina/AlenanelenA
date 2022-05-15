@@ -1,3 +1,6 @@
+// Alyona D
+//15.05.22 
+//guess game class
 #pragma once
 #include <iostream>
 #include <ctime>
